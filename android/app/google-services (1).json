@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041702876059",
+    "project_id": "kitfit-2549a",
+    "storage_bucket": "kitfit-2549a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041702876059:android:d2d419e0b4580c09a9a73e",
+        "android_client_info": {
+          "package_name": "com.exemple.kitfit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0_GBoWDmNMyD0tG7DkYhscDGH9ei9LFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
